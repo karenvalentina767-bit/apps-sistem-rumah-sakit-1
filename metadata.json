@@ -1,0 +1,5 @@
+{
+  "name": "Smart Hospital Coordinator",
+  "description": "An AI-powered Hospital System Coordinator that manages patient registration and general inquiries while adhering to strict privacy and compliance standards using Google Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
